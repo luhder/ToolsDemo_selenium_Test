@@ -2,6 +2,7 @@
 This repository contains an automated test suite for the Practice Software Testing website using Selenium WebDriver, Cucumber (BDD), TestNG, and Java.
 
 📂 Project Structure
+```
 luhder-toolsdemo_selenium_test/
 ├── README.md
 └── ToolsDemo/
@@ -31,7 +32,7 @@ luhder-toolsdemo_selenium_test/
     │           └── utils/
     │               └── ExtentReportUtil.java
     └── target/
-
+```
 --🛠 Tech Stack
 Programming Language: Java
 Test Automation: Selenium WebDriver
